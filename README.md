@@ -5,6 +5,7 @@ Template repository for C++ project which can be used out of the box. Provides a
 
 Testing framework used: GoogleTest
 https://google.github.io/googletest/
+https://github.com/bastianhjaeger/github_actions_gtest_example
 
 CI solution used:
 Github Actions
